@@ -249,7 +249,6 @@ export default {
   methods: {
     // go to login
     login() {
-      console.log;
       this.$router.push("/login");
     }
   }
